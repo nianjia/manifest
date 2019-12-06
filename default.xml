@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="nianjia"
+           fetch="https://github.com/nianjia/"/>
+
+  <default revision="master"
+           remote="nianjia"
+           sync-j="4" />
+
+  <project name="kernel.git" path="kernel" revision="76333eb7361c62d21af8af33c2c88e6dbcc96fb7"/>
+</manifest>
